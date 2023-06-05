@@ -3,7 +3,7 @@
 	border: 1px solid black;
 	border-radius:8px
 }
- #submit{
+#submit {
 	width:100%;
 	padding: 18px;
 	border:none;
@@ -11,7 +11,15 @@
 	color:white;
 }
 
-
 .question-1{
+	padding:20px
+}
+.question-2{
+	padding:20px
+}
+.question-3{
+	padding:20px
+}
+.question-4{
 	padding:20px
 }
