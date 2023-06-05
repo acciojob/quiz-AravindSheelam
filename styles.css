@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.quiz-container{
+	border: 1px solid black;
+	border-radius:8px
+}
+ #submit{
+	width:100%;
+	padding: 18px;
+	border:none;
+	background-color:#ac00e6;
+	color:white;
+}
+
+
+.question-1{
+	padding:20px
+}
